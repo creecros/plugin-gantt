@@ -97,6 +97,7 @@ div.ganttview-blocks {
 
 div.ganttview-block-container {
     height: 28px;
+    padding: 2px;
 }
 
 div.ganttview-block {
